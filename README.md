@@ -53,4 +53,4 @@ This gave the highest accuracy because if one model makes a mistake, the other o
 Failure Cases & Limitations
  * Sometimes the model confuses flowers that look very similar, like two different types of roses.
  * If the image is very blurry, the model struggles.
- * I only trained for a few epochs (5-10) to save time. If I trained for 50 epochs, it would probably be better 8.3
+ * I only trained for a few epochs (5-10) to save time. If I trained for 50 epochs, it would probably be better.
